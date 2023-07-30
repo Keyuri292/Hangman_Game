@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import random
 HANGMAN = (
 """"
@@ -182,12 +176,3 @@ else:
 print("\nThe word was", word)
 
 input("\nPress enter key to exit.")
-
-
-# 
-
-# In[ ]:
-
-
-
-
